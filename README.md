@@ -1,5 +1,5 @@
 # spam-whatsapp
-:woozy_face:Python Script to spam your friends
+:woozy_face: Python Script to spam your friends
 
 instructions:
 
