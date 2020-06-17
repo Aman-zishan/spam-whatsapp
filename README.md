@@ -7,7 +7,7 @@ This webApp extracts text from an image :heart_eyes:
 
 <li>Visual Code Studio</li>
 <li>python:snake:</li>
-<li>flask:hot_pepper:</li>
+
 
 
 <h3>Installation :gem: </h3>
@@ -15,40 +15,17 @@ This webApp extracts text from an image :heart_eyes:
 1. **:round_pushpin: clone the repository.**
 
    ```shell
-   $git clone https://github.com/Aman-zishan/textextractor2.0.git
+   $git clone https://github.com/Aman-zishan/spam-whatsapp.git
 
    ```
 2. **:checkered_flag: navigate to downloaded folder.**
 
    ```shell
-   $cd textextractor2.0
+   $cd spam-whatsapp
 
    ```
-3. **:construction: set up virtual environment.**
 
-   ```shell
-   #windows
-   
-   $py -3 -m venv venv
-   
-   #linux/mac OS
-   
-   $python3 -m venv venv
-
-   ```
-4. **:diamonds: activate virtual environment.**
-
-   ```shell
-   #windows
-
-   $venv\Scripts\activate
-   
-   #linux/mac OS
-   
-   $source venv/bin/activate
-
-   ```
-5. **:hot_pepper: install flask & other required dependencies**
+3. **:hot_pepper: install selenium & other required dependencies**
     ```shell
     
     #windows
@@ -62,7 +39,7 @@ This webApp extracts text from an image :heart_eyes:
    $pip3 install -r requirements.txt
 
    ```
-6. **:dart: setup flask environment and run app**
+6. **:dart: run the "spam.py" script**
     ```shell
     
    $export FLASK_APP=app.py
