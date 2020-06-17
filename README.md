@@ -1,5 +1,5 @@
 <p align="center">
- <img height="300px" width="400px" src="WhatsApp_1_3 1.png" />
+ <img height="300px" width="400px" src="banner.png" />
  </p>
 Python script to spam your friends on WhatsApp :heart_eyes:
 
