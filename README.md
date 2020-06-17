@@ -1,7 +1,8 @@
 <p align="center">
  <img height="300px" width="400px" src="WhatsApp_1_3.jpeg" />
  </p>
-This webApp extracts text from an image :heart_eyes:
+Python script to spam your friends on WhatsApp :heart_eyes:
+**Do not use this script to harass people. This script is build just for fun, I am not responsible for the consequences :) **
 
  <h3> Tech stack used: :octocat: </h3>
 
@@ -42,9 +43,8 @@ This webApp extracts text from an image :heart_eyes:
 6. **:dart: run the "spam.py" script**
     ```shell
     
-   $export FLASK_APP=app.py
-   $export FLASK_ENV=development
-   $flask run
+   $python3 spam.py
+  
    ```
  # Demo :blush:
    <p align="center">
