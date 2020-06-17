@@ -43,6 +43,8 @@ Python script to spam your friends on WhatsApp :heart_eyes:
    $pip3 install -r requirements.txt
 
    ```
+   **Make sure you installed chromedriver and added to global path of your system.**
+   
 6. **:dart: run the "spam.py" script**
     ```shell
     
