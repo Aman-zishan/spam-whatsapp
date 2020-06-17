@@ -1,5 +1,5 @@
 <p align="center">
- <img height="300px" width="310px" src="whatsapp_1_3.jpeg" />
+ <img height="300px" width="310px" src="WhatsApp_1_3.jpeg" />
  </p>
 This webApp extracts text from an image :heart_eyes:
 
