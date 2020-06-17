@@ -3,6 +3,8 @@
  </p>
 Python script to spam your friends on WhatsApp :heart_eyes:
 
+
+
  **Do not use this script to harass people. This script is build just for fun, I am not responsible for the consequences :)**
 
  <h3> Tech stack used: :octocat: </h3>
