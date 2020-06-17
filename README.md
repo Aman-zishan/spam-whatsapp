@@ -49,9 +49,5 @@ Python script to spam your friends on WhatsApp :heart_eyes:
    $python3 spam.py
   
    ```
- # Demo :blush:
-   <p align="center">
- <img src="demo.png" />
- <img src="demo2.png" />
- <img src="demo3.png" />
- </p>
+   **After scanning the QR code you can enter the victim name and other details**
+
